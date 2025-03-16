@@ -1273,7 +1273,7 @@
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
-                <string>Builtin</string>
+                <string>External</string>
                 <key>PickerVariant</key>
                 <string>Auto</string>
                 <key>PollAppleHotKeys</key>
@@ -1648,7 +1648,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>LoadEarly</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>OpenCanopy.efi</string>
                 </dict>
